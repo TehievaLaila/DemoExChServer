@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoExChServer", "DemoExChServer\DemoExChServer.csproj", "{1B134A40-80FC-4E25-837B-7E740DE0E239}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B134A40-80FC-4E25-837B-7E740DE0E239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B134A40-80FC-4E25-837B-7E740DE0E239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B134A40-80FC-4E25-837B-7E740DE0E239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B134A40-80FC-4E25-837B-7E740DE0E239}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5CCD9F9-B316-4880-AC44-9D28FE6EEF34}
+	EndGlobalSection
+EndGlobal
